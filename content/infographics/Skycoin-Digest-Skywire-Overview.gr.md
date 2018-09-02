@@ -18,16 +18,16 @@ categories = [
     length = 427061
 +++
 
-## Skywire – Reinventing the Internet
+## Skywire – Επανεφεύρωντας το Internet
 
-The Skycoin ecosystem has several critical pieces, all beautifully held together by Skywire.
+Το οικοσύστημα του Skycoin αποτελείτε απο αρκετά κρίσιμα κομμάτια, που όλα μαζί κουμπώνουν όμορφα απο το Skywire.
 
-Skywire takes back control from ISPs and puts it into the hands of users. That means no huge Internet bills and no unfair business practices. A self-sufficient network, 100% owned and operated by its users.
+Το Skywire παίρνει πίσω τον έλεγχο απο τους ISP και τον μεταφέρει στα χέρια των χρηστών. Αυτό βάζει τέρμα στις υπέρογκες χρεώσεις για τις υπηρεσίες Internet και στις άδικες πρακτικές των εταιριών. Ενα αυτάρκες δίκτυο, που ανήκει και λειτουργεί 100% απο τους χρήστες του.
 
-Skywire uses peer-to-peer blockchain technology to create a decentralized mesh network that’s fast, private, and secure.
+Το Skywire χρησιμοποιεί μια peer-to-peer blockchain τεχνολογία για να δημιουργήσει ενα αποκεντρωτικό δίκτυο πλέγματος το οποίο είναι γρήγορο, ιδιωτικό και ασφαλές.
 
-With our incentivized mesh network, users can earn coins for running nodes and providing bandwidth. They can spend coins to use bandwidth e.g. consuming media or other network resources and services.
+Με τα παρεχόμενα κίνητρα του δικτύου πλέγματος μας, οι χρήστες μπορούν να κερδίσουν νομίσματα λειτουργώντας κόμβους για να παρέχουν εύρος ζώνης. Μπορούν να ξοδέψουν τα νομίσματα καταναλώνοντας εύρως ζώνης π.χ. καταναλωτικά μέσα ή άλλους πόρους και υπηρεσίες.
 
-Skywire is end-to-end encrypted and nodes are uniquely identified by a public key hash instead of an IP address. This renders man-in-the-middle attacks impossible.
+Το Skywire είναι κρυπτογραφημένο απο άκρη-σε-άκρη (end-to-end) και οι κόμβοι είναι μοναδικά αναγνωρίσιμοι απο ενα δημόσιο κατακερματισμένο κλειδι αντί για μια διεύθυνση IP. Αυτό καθιστά τις man-in-the-middle επιθέσεις αδύνατες.
 
-We're not just changing the Internet, we're reinventing it.
+Δεν αλλάζουμε απλά το Internet, το επανεφεύρουμε.
