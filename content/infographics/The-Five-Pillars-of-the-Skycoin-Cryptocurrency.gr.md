@@ -15,23 +15,23 @@ categories = [
     length = 778103
 +++
 
-The 5 Pillars of Skycoin
+Οι 5 Πυλώνες του Skycoin
 
 ## __1. SKYCOIN__
 
-A truly decentralized, 51% attack proof, lightning quick cryptocurrency that was designed to fulfill Satoshi’s original vision.
+Ενα πραγματικά αποκεντρωτικό, αλεξίσφαιρο απο επιθέσεις τύπου 51%, αστραπιαία γρήγορο κρυπτονόμισμα που σχεδιάστηκε ώστε να εκπηρώσει το πρωτότυπο όραμα του Satoshi.
 
 ## __2. SKYWIRE__
 
-A mesh network that allows you to earn Skycoin for forwarding traffic/bandwidth. This is a similar to Tor or BitTorrent, except that you will be paid to participate.
+Ενα δίκτυο πλέγματος που σου επιτρέπει να κερδίζεις Skycoin για την προώθηση της κυκλοφορίας/εύρους ζώνης. Είναι παρόμοιο με το Tor ή το BitTorrent, μόνο που θα πληρώνεσαι για να συμμετέχεις.
 
 ## __3. SKYLEDGER__
 
-A platform similar to Ethereum’s ERC20 platform, in the way a 2018 Bugatti Chiron is similar to a 1992 Geo Metro. They are both cars after all.
+Μια πλατφόρμα που μοιάζει με την πλατφόρμα ERC20 του Ethereum, με τον τρόπο που μια Bugatti Chiron του 2018 μοιάζει με μια Geo Metro του 1992. Είναι και τα δύο αυτοκίνητα παρά όλα αυτά.
 
 ## __4. DECENTRALIZED APPS__
 
-An ecosystem of apps being built on top of the previous three things.
+Ενα οικοσύστημα απο εφαρμογές που βασίζονται πάνω στα τρία προηγούμενα πράγματα.
 
 ## __5. SKYMINERS__
-Our very own hardware platform. The Backbone which supports it all.
+Η δική μας hardware πλατφόρμα. Η ραχοκοκαλιά που τα στηρίζει όλα.
